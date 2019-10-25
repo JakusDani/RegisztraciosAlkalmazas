@@ -8,3 +8,13 @@ C:\Users\Diak\Desktop\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\Re
 C:\Users\Diak\Desktop\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.CoreCompileInputs.cache
 C:\Users\Diak\Desktop\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.exe
 C:\Users\Diak\Desktop\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.pdb
+C:\Users\Diak\Source\Repos\RegisztraciosAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe.config
+C:\Users\Diak\Source\Repos\RegisztraciosAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe
+C:\Users\Diak\Source\Repos\RegisztraciosAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.pdb
+C:\Users\Diak\Source\Repos\RegisztraciosAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csprojAssemblyReference.cache
+C:\Users\Diak\Source\Repos\RegisztraciosAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Form1.resources
+C:\Users\Diak\Source\Repos\RegisztraciosAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Properties.Resources.resources
+C:\Users\Diak\Source\Repos\RegisztraciosAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.GenerateResource.cache
+C:\Users\Diak\Source\Repos\RegisztraciosAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Source\Repos\RegisztraciosAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.exe
+C:\Users\Diak\Source\Repos\RegisztraciosAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.pdb
